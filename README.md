@@ -1,2 +1,2 @@
 # NodeAPI
-API Restful with NodeJS, Restify and MongoDB
+API of Restaurants with Restful NodeJS, Restify and MongoDB
